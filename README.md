@@ -2,3 +2,4 @@
 
 ## Sections
   * [http](http.md)
+  * [package managers](package-managers.md)
